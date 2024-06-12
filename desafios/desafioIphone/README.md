@@ -15,6 +15,9 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 - Minutos relevantes: 00:15 até 00:55
 
+### Resolução
+A resolução do desafio se encontra no package codigo-fonte.tipos-variaveis.src.Models;
+
 #### Funcionalidades a Modelar
 1. **Reprodutor Musical**
    - Métodos: `tocar()`, `pausar()`, `selecionarMusica(String musica)`
